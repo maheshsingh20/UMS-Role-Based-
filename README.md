@@ -4,13 +4,13 @@
 
 ### Complete Enterprise Resource Planning Solution for Educational Institutions
 
-[![Stars](https://img.shields.io/github/stars/Ansarimajid/College-ERP?style=for-the-badge&logo=github)](https://github.com/Ansarimajid/College-ERP)
+[![Stars](https://img.shields.io/github/stars/maheshsingh20/College-ERP?style=for-the-badge&logo=github)](https://github.com/maheshsingh20/College-ERP)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.2.28-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-orange?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-[Live Demo](https://syncx.pythonanywhere.com) • [Report Bug](https://github.com/Ansarimajid/College-ERP/issues) • [Request Feature](https://github.com/Ansarimajid/College-ERP/issues)
+[Report Bug](https://github.com/maheshsingh20/College-ERP/issues) • [Request Feature](https://github.com/maheshsingh20/College-ERP/issues)
 
 **A modern, secure, and fully dynamic ERP system built with Django 4.2 for managing educational institutions efficiently.**
 
@@ -567,7 +567,7 @@ Ensure you have the following installed on your system:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Ansarimajid/College-ERP.git
+git clone https://github.com/maheshsingh20/College-ERP.git
 cd College-ERP
 
 # 2. Create virtual environment
@@ -604,7 +604,7 @@ python manage.py runserver
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ansarimajid/College-ERP.git
+git clone https://github.com/maheshsingh20/College-ERP.git
 cd College-ERP
 ```
 
@@ -1016,7 +1016,7 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 #### 🐛 Report Bugs
 
-1. Check if the bug is already reported in [Issues](https://github.com/Ansarimajid/College-ERP/issues)
+1. Check if the bug is already reported in [Issues](https://github.com/maheshsingh20/College-ERP/issues)
 2. If not, create a new issue with:
    - Clear, descriptive title
    - Detailed description of the bug
@@ -1028,7 +1028,7 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 #### 💡 Suggest Features
 
-1. Check [existing feature requests](https://github.com/Ansarimajid/College-ERP/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+1. Check [existing feature requests](https://github.com/maheshsingh20/College-ERP/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 2. Create a new issue with:
    - Clear feature description
    - Use case and benefits
@@ -1209,8 +1209,8 @@ Contributors will be:
 
 If you have questions about contributing:
 - Check existing documentation
-- Ask in [GitHub Discussions](https://github.com/Ansarimajid/College-ERP/discussions)
-- Email: [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
+- Ask in [GitHub Discussions](https://github.com/maheshsingh20/College-ERP/discussions)
+- Email: [maheshsingh0905a@gmail.com](mailto:maheshsingh0905a@gmail.com)
 
 ---
 
@@ -1223,7 +1223,7 @@ If you find this project helpful, please consider supporting it:
 ### ⭐ Star the Repository
 Show your appreciation by starring the repository on GitHub. It helps others discover the project!
 
-[![Star on GitHub](https://img.shields.io/github/stars/Ansarimajid/College-ERP?style=social)](https://github.com/Ansarimajid/College-ERP)
+[![Star on GitHub](https://img.shields.io/github/stars/maheshsingh20/College-ERP?style=social)](https://github.com/maheshsingh20/College-ERP)
 
 ### 🐛 Report Bugs
 Help improve the project by reporting bugs and issues you encounter.
@@ -1297,7 +1297,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Ansari Majid Ali
+Copyright (c) 2024 Mahesh Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1327,14 +1327,14 @@ SOFTWARE.
 We're here to help you get the most out of College ERP!
 
 #### 📧 Email Support
-- **General Inquiries:** [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
-- **Technical Support:** [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
-- **Bug Reports:** Use [GitHub Issues](https://github.com/Ansarimajid/College-ERP/issues)
+- **General Inquiries:** [maheshsingh0905a@gmail.com](mailto:maheshsingh0905a@gmail.com)
+- **Technical Support:** [maheshsingh0905a@gmail.com](mailto:maheshsingh0905a@gmail.com)
+- **Bug Reports:** Use [GitHub Issues](https://github.com/maheshsingh20/College-ERP/issues)
 
 #### 🐛 Report Issues
 Found a bug? Please report it:
-1. Check [existing issues](https://github.com/Ansarimajid/College-ERP/issues) first
-2. Create a [new issue](https://github.com/Ansarimajid/College-ERP/issues/new) with:
+1. Check [existing issues](https://github.com/maheshsingh20/College-ERP/issues) first
+2. Create a [new issue](https://github.com/maheshsingh20/College-ERP/issues/new) with:
    - Clear description
    - Steps to reproduce
    - Expected vs actual behavior
@@ -1343,13 +1343,13 @@ Found a bug? Please report it:
 
 #### 💡 Feature Requests
 Have an idea? We'd love to hear it:
-1. Check [existing feature requests](https://github.com/Ansarimajid/College-ERP/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
-2. Create a [new feature request](https://github.com/Ansarimajid/College-ERP/issues/new)
+1. Check [existing feature requests](https://github.com/maheshsingh20/College-ERP/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+2. Create a [new feature request](https://github.com/maheshsingh20/College-ERP/issues/new)
 3. Describe the feature and its benefits
 
 #### 💬 Community Discussion
 Join the conversation:
-- **GitHub Discussions:** [Start a discussion](https://github.com/Ansarimajid/College-ERP/discussions)
+- **GitHub Discussions:** [Start a discussion](https://github.com/maheshsingh20/College-ERP/discussions)
 - **Q&A:** Ask questions and get answers
 - **Show and Tell:** Share your implementations
 - **Ideas:** Brainstorm new features
@@ -1363,9 +1363,8 @@ Join the conversation:
 
 #### 🔗 Connect with Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ansarimajid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansmajidali)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ansmajidali@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maheshsingh20)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:maheshsingh0905a@gmail.com)
 
 #### ⏰ Response Time
 - **Email:** Within 24-48 hours
@@ -1388,18 +1387,18 @@ If you find this project helpful:
 
 ### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ansarimajid/College-ERP&type=Date)](https://star-history.com/#Ansarimajid/College-ERP&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=maheshsingh20/College-ERP&type=Date)](https://star-history.com/#maheshsingh20/College-ERP&Date)
 
 ---
 
 ### 📊 Project Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ansarimajid/College-ERP?style=flat-square)
-![GitHub code size](https://img.shields.io/github/languages/code-size/Ansarimajid/College-ERP?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/Ansarimajid/College-ERP?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/Ansarimajid/College-ERP?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ansarimajid/College-ERP?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Ansarimajid/College-ERP?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/maheshsingh20/College-ERP?style=flat-square)
+![GitHub code size](https://img.shields.io/github/languages/code-size/maheshsingh20/College-ERP?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/maheshsingh20/College-ERP?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/maheshsingh20/College-ERP?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/maheshsingh20/College-ERP?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/maheshsingh20/College-ERP?style=flat-square)
 
 ---
 
@@ -1445,7 +1444,7 @@ If you find this project helpful:
 
 ---
 
-**Made with ❤️ by [Ansari Majid Ali](https://github.com/Ansarimajid)**
+**Made with ❤️ by [Mahesh Singh](https://github.com/maheshsingh20)**
 
 *If this project helped you, consider giving it a star! ⭐*
 
@@ -1455,16 +1454,16 @@ If you find this project helpful:
 
 ### 🔗 Quick Links
 
-[🏠 Home](https://github.com/Ansarimajid/College-ERP) • 
-[📖 Documentation](https://github.com/Ansarimajid/College-ERP#readme) • 
-[🐛 Issues](https://github.com/Ansarimajid/College-ERP/issues) • 
-[💡 Discussions](https://github.com/Ansarimajid/College-ERP/discussions) • 
-[🚀 Releases](https://github.com/Ansarimajid/College-ERP/releases) • 
-[⭐ Star](https://github.com/Ansarimajid/College-ERP/stargazers)
+[🏠 Home](https://github.com/maheshsingh20/College-ERP) • 
+[📖 Documentation](https://github.com/maheshsingh20/College-ERP#readme) • 
+[🐛 Issues](https://github.com/maheshsingh20/College-ERP/issues) • 
+[💡 Discussions](https://github.com/maheshsingh20/College-ERP/discussions) • 
+[🚀 Releases](https://github.com/maheshsingh20/College-ERP/releases) • 
+[⭐ Star](https://github.com/maheshsingh20/College-ERP/stargazers)
 
 ---
 
-**© 2024 Ansari Majid Ali. All rights reserved.**
+**© 2024 Mahesh Singh. All rights reserved.**
 
 </div>
 
@@ -1996,5 +1995,5 @@ python manage.py migrate
 
 ### Known Issues
 
-None at this time. Report issues at [GitHub Issues](https://github.com/Ansarimajid/College-ERP/issues).
+None at this time. Report issues at [GitHub Issues](https://github.com/maheshsingh20/College-ERP/issues).
 
